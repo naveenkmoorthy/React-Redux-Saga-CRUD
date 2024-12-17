@@ -33,7 +33,7 @@ Before starting, ensure you have the following installed on your machine:
 
 3. Start the JSON Server:
 
-   Create a `db.json` file in the root directory with the following content:
+   Create a `db.json` file in the src/mock directory with the following content:
 
    ```json
    {
